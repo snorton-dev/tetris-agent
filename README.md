@@ -1,5 +1,4 @@
 # tetris-agent
-A simple Tetris solver that play several algorithms against a terminal based implementation of Tetris. Features a full fledged CLI.
 
 ## Overview
 This project contains a simple implementaion of the game of Tetris and several algorithms thath may be tested upon it.
