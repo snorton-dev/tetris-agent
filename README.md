@@ -2,9 +2,9 @@
 
 ## Overview
 This project contains a simple implementaion of the game of Tetris and several algorithms thath may be tested upon it.
-
 The `analysis.c` module also provide statistics about algorithms performances on several runs.
-This project was created for the 2026 french MPI engineer examinations. 
+
+This project was created as my TIPE for the 2026 french MPI engineer examinations. 
 
 ## Features
 - Simple, random and linear evaluation algorithms
