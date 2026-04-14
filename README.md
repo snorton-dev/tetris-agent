@@ -1,9 +1,5 @@
 # Tetris Agent
 
-![Tetris](https://img.shields.io/badge/Game-Tetris-00BFFF)
-![C](https://img.shields.io/badge/Language-C-00599C)
-![License](https://img.shields.io/badge/License-MIT-green)
-
 A fast, lightweight **Tetris implementation** written in C with several heuristic algorithms and performance analysis tools. Built as a TIPE project for the 2026 French MPI engineering entrance exams.
 
 
