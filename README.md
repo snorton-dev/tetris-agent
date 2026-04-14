@@ -5,7 +5,7 @@ A fast, lightweight **Tetris implementation** written in C with several heuristi
 
 ## Overview
 
-This project implements a complete Tetris game engine in C along with multiple AI agents that can play the game autonomously. It includes:
+This project implements a Tetris game engine in C along with several agents that can play the game autonomously and a neat CLI. It includes:
 
 - Several evaluation heuristics (simple, random, linear)
 - Depth-limited search with averaging
