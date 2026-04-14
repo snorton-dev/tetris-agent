@@ -13,19 +13,6 @@ This project implements a Tetris game engine in C along with several agents that
 - A robust analysis module to benchmark algorithm performance over thousands of games
 
 
-## Features
-
-- **Several Strategies**:
-  - Random agent (baseline)
-  - Simple heuristic agent
-  - Depth-average search with linear evaluation
-  - Optimization by predicting following pieces using set theory
-
-- **Analysis Tools**:
-  - `analysis.c` perform several simulations
-  - Detailed statistics (average lines cleared, average score, standard deviation)
-
-
 ## How to use
 
 ### Prerequisites
