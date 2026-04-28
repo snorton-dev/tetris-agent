@@ -3,6 +3,7 @@
 A fast, lightweight **Tetris implementation** written in C with several heuristic algorithms and performance analysis tools. 
 Built as a TIPE project for the 2026 French MPI engineering entrance exams.
 
+![Tetris Display Game](docs/tetris_display-game.gif)
 
 ## Features
 
