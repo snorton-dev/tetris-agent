@@ -3,7 +3,9 @@
 A fast, lightweight **Tetris implementation** written in C with several heuristic algorithms and performance analysis tools. 
 Built as a TIPE project for the 2026 French MPI engineering entrance exams.
 
-<img src="https://github.com/snorton-dev/tetris-agent/blob/937df83a02f6ebf387a5385d9cecb6710f334d23/docs/tetris_display-game.gif" alt="Tetris game being played by agent 7 with depth 1" width="100%" />   
+<p align="center">
+  <img src="https://github.com/snorton-dev/tetris-agent/blob/937df83a02f6ebf387a5385d9cecb6710f334d23/docs/tetris_display-game.gif" alt="Tetris game being played by agent 7 with depth 1" width="500" />
+</p>   
 
 ## Features
 
